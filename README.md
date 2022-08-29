@@ -1,5 +1,5 @@
 # How to run locally
 
-1. Unzip the code
+1. Clone the repository locally
 2. Run the main method and ta-da! 
 
